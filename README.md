@@ -1,15 +1,15 @@
 # Projeto ContaBanco
 Este projeto consiste em uma aplicação simples que recebe dados via terminal para criar uma conta bancária.
 
-## Classe ContaTerminal.java
-A classe `ContaTerminal.java` é responsável por toda a codificação do nosso programa. Ela solicita ao usuário que insira as seguintes informações:
-
 ## Screenshots
 <p float="left">
-  <img src="screenshots/1.png" width="200" />
-  <img src="screenshots/2.png" width="200" /> 
-  <img src="screenshots/3.png" width="200" />  
+    <img src="screenshots/1.png" width="800" />
+    <img src="screenshots/2.png" width="800" /> 
+    <img src="screenshots/3.png" width="800" />  
 </p>
+
+## Classe ContaTerminal.java
+A classe `ContaTerminal.java` é responsável por toda a codificação do nosso programa. Ela solicita ao usuário que insira as seguintes informações:
 
 ## Entrada de dados
 Os dados são inseridos via terminal. O programa solicita cada informação ao usuário, por exemplo:
